@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=simpletexteditor
+Exec=simpletexteditor
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

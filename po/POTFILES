@@ -1,0 +1,4 @@
+data/org.gnome.Simpletexteditor.desktop.in
+data/org.gnome.Simpletexteditor.appdata.xml.in
+data/org.gnome.Simpletexteditor.gschema.xml
+src/simpletexteditor-window.ui
