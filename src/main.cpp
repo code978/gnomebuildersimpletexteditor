@@ -27,8 +27,8 @@ on_activate (Glib::RefPtr<Gtk::Application> app)
 	if (!window) {
 		window = new SimpletexteditorWindow();
 		window->property_application() = app;
-		window->property_default_width() = 600;
-		window->property_default_height() = 300;
+		window->property_default_width() = 800;
+		window->property_default_height() = 600;
 		app->add_window(*window);
 	}
 
